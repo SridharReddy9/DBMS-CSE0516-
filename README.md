@@ -25,5 +25,5 @@
 ## EXPERIMENT 8
    SUB QUERY -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-8%20(sub%20query).txt)
 ## EXPERIMENT 9
-    JOINS -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-9(joins).txt)
+    JOINS -(
  
