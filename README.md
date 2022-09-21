@@ -7,8 +7,9 @@
                               IN - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6%20(IN).txt)
                               AGGREGATE - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6(Aggregate%20Function).txt)
 ## EXPERIMENT 1
-   SELECT with various clauses-DDL COMMANDS
+   DDL COMMANDS
                            CREATE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command%20(Create%20Table).png)
                            ALTER -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDl%20Command%20(Alter).png)
                            DROP -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command%20(Drop).png)
-                           TRUNCATE -(
+                           TRUNCATE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command(truncate).png)
+## EXPERIMENT 2
