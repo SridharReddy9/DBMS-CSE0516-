@@ -13,4 +13,6 @@
                            DROP -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command%20(Drop).png)
                            TRUNCATE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command(truncate).png)
 ## EXPERIMENT 2
-   DDL COMMANDS WITH CONSTRAINTS- PRIMARY KEY -(
+   DDL COMMANDS WITH CONSTRAINTS- PRIMARY KEY -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/primary%20key.txt)
+## EXPERIMENT 3
+   DML COMMANDS - INSERT -(
