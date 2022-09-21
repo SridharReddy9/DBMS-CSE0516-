@@ -15,4 +15,5 @@
 ## EXPERIMENT 2
    DDL COMMANDS WITH CONSTRAINTS- PRIMARY KEY -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/primary%20key.txt)
 ## EXPERIMENT 3
-   DML COMMANDS - INSERT -(
+   DML COMMANDS - INSERT -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Insert).txt)
+                  SELECT -(
