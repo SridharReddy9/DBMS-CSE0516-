@@ -5,4 +5,4 @@
 ## EXPERIMENT 6
   SELECT with various clauses-BETWEEN -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6(Between).txt)
                               IN - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6%20(IN).txt)
-                              AGGREGATE
+                              AGGREGATE - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6(Aggregate%20Function).txt)
