@@ -23,4 +23,6 @@
 ## EXPERIMENT 7
    SELECT with various clause -GROUPBY,HAVING,ORDER BY- (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/EXPERIMENT%207(%20GROUP%20BY%20AND%20ORDER%20BY).txt)
 ## EXPERIMENT 8
-   SUB QUERY -(
+   SUB QUERY -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-8%20(sub%20query).txt)
+## EXPERIMENT 9
+    JOINS-(
