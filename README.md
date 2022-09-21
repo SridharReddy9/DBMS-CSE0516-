@@ -8,4 +8,5 @@
                               AGGREGATE - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6(Aggregate%20Function).txt)
 ## EXPERIMENT 1
    SELECT with various clauses-DDL COMMANDS
-                           CREATE -(
+                           CREATE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command%20(Create%20Table).png)
+                           ALTER -(
