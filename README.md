@@ -10,4 +10,5 @@
    SELECT with various clauses-DDL COMMANDS
                            CREATE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command%20(Create%20Table).png)
                            ALTER -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDl%20Command%20(Alter).png)
-                           DROP -(
+                           DROP -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command%20(Drop).png)
+                           TRUNCATE -(
