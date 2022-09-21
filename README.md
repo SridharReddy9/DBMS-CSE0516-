@@ -22,3 +22,5 @@
                   DELETE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Delete).txt)
 ## EXPERIMENT 7
    SELECT with various clause -GROUPBY,HAVING,ORDER BY- (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/EXPERIMENT%207(%20GROUP%20BY%20AND%20ORDER%20BY).txt)
+## EXPERIMENT 8
+   SUB QUERY -(
