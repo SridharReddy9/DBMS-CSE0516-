@@ -20,3 +20,5 @@
 ## EXPERIMENT 4
    DML COMMANDS - UPDATE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Update).txt)
                   DELETE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Delete).txt)
+## EXPERIMENT 7
+   SELECT with various clause -GROUPBY,HAVING,ORDER BY- (
