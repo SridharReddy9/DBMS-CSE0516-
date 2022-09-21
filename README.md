@@ -6,3 +6,6 @@
   SELECT with various clauses-BETWEEN -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6(Between).txt)
                               IN - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6%20(IN).txt)
                               AGGREGATE - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6(Aggregate%20Function).txt)
+## EXPERIMENT 1
+   SELECT with various clauses-DDL COMMANDS
+                           CREATE -(
