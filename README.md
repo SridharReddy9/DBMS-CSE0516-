@@ -4,4 +4,5 @@
                                WHERE - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-5(where%20clause).txt)
 ## EXPERIMENT 6
   SELECT with various clauses-BETWEEN -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6(Between).txt)
-                              IN - (
+                              IN - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment-6%20(IN).txt)
+                              AGGREGATE
