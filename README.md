@@ -19,4 +19,4 @@
                   SELECT -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Select).txt)
 ## EXPERIMENT 4
    DML COMMANDS - UPDATE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Update).txt)
-                  DELETE -(
+                  DELETE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Delete).txt)
