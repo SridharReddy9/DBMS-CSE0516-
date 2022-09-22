@@ -37,4 +37,6 @@
 ## EXPERIMENT 25 
      STUDENT_PROGRESS -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2025%20(student_progress).txt)
 ## EXPERIMENT 19
+     -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2019.txt)
+## EXPERIMENT 21
      -(
