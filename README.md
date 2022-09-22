@@ -29,4 +29,4 @@
 ## EXPERIMENT 10
     VIEW,INDEX- (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2010%20(view%2Cindex)%20.txt)
 ## EXPERIMENT 22
-    CASE SCENARIO(BOOK PUBLISHING COMPANY) - (
+    CASE SCENARIO(BOOK PUBLISHING COMPANY) - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2022%20(Book%20Publishing%20Company).txt)
