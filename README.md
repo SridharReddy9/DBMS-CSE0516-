@@ -34,3 +34,5 @@
     CASE SCENARIO(GENERAL HOSPITAL) -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2023%20(General%20Hospital)%20.txt)
 ## EXPERIMENT 24
     CAR RENTAL COMPANY - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2024%20(Car%20Rental%20Company).txt)
+## EXPERIMENT 25 
+     STUDENT_PROGRESS -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2025%20(student_progress).txt)
