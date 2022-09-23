@@ -13,7 +13,8 @@
                            DROP -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command%20(Drop).png)
                            TRUNCATE -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DDL%20Command(truncate).png)
 ## EXPERIMENT 2
-   DDL COMMANDS WITH CONSTRAINTS- (PRIMARY KEY,FOREIGN KEY,UNIQUE,CHECK) -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/primary%20key.txt)
+   DDL COMMANDS WITH CONSTRAINTS- (PRIMARY KEY) -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/primary%20key.txt)
+                                   (FOREIGN KEY,UNIQUE,CHECK) -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/foreign%2Cunique%2Ccheck.txt)
 ## EXPERIMENT 3
    DML COMMANDS - INSERT -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Insert).txt)
                   SELECT -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/DML%20Command(Select).txt)
