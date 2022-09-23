@@ -46,3 +46,5 @@
      SQL STRING FUNCTION- REPEAT,REPLICATE(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2017(repeat%2Creplicate).txt)
 ## EXPERIMENT 11
      CASE,IF,ITERATE,LEAVE,LOOP-(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2011(CASE%2CIF%2CITERATE%2CLEAVE%2CLOOP).txt)
+## EXPERIMENT 14
+    DCL COMMANDS-(GRANT,REVOKE)-(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2014%20(DCL%20COMMANDS).txt)
