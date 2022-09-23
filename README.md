@@ -36,10 +36,10 @@
     CAR RENTAL COMPANY - (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2024%20(Car%20Rental%20Company).txt)
 ## EXPERIMENT 25 
      STUDENT_PROGRESS -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2025%20(student_progress).txt)
-## EXPERIMENT 19
-     -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2019.txt)
+## EXPERIMENT 20
+     BASIC HRM DATABASE-(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2019.txt)
 ## EXPERIMENT 21
-     -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2021.txt)
+     ADVANCED HRM DATABASE-(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2021.txt)
 ## EXPERIMENT 13,EXPERIMENT 18
     TCL COMMANDS(COMMIT,ROLLBACK,SAVEPOINTS) -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2013(TCL%20Commands).txt)
 ## EXPERIMENT 17
