@@ -40,7 +40,7 @@
      -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2019.txt)
 ## EXPERIMENT 21
      -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2021.txt)
-## EXPERIMENT 13
+## EXPERIMENT 13,EXPERIMENT 18
     TCL COMMANDS(COMMIT,ROLLBACK,SAVEPOINTS) -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2013(TCL%20Commands).txt)
 ## EXPERIMENT 17
      SQL STRING FUNCTION- REPEAT,REPLICATE(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2017(repeat%2Creplicate).txt)
