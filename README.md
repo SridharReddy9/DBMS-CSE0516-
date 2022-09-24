@@ -31,6 +31,8 @@
     (VIEW,INDEX,SEQUENCE)- (https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2010%20(view%2Cindex)%20.txt)
 ## EXPERIMENT 11
      CASE,IF,ITERATE,LEAVE,LOOP-(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/Experiment%2011(CASE%2CIF%2CITERATE%2CLEAVE%2CLOOP).txt)
+## EXPERIMENT 12
+     WHILELOOP -(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/while%20loop.txt)
 ## EXPERIMENT 13
     SAVEPOINTS-(https://github.com/SridharReddy9/DBMS-CSE0516-/blob/main/savepoint.txt)
 ## EXPERIMENT 14
